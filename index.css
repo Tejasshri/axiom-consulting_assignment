@@ -1,0 +1,76 @@
+.my-application-container {
+  min-height: 100vh;
+  height: 20px;
+}
+
+.intro-section {
+}
+
+.intro-section-description {
+  font-size: 20px;
+  color: rgb(48, 47, 47);
+  font-weight: 400 !important;
+}
+
+.intro-section-description-2 {
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+  font-weight: 600 !important;
+}
+
+.intro-section-video_details-container {
+}
+.intro-section-video_details-container h1 {
+  font-family: Helvetica, Arial, sans-serif !important;
+  font-weight: 700;
+}
+
+.buy-now-btn {
+  border-radius: 30px !important;
+}
+
+.sp-btn-inner {
+  border-radius: 15px;
+  background-color: white;
+  color: black;
+}
+
+.sp-btn-inner p {
+  all: unset;
+  border-radius: 15px;
+  background: linear-gradient(green, black) !important;
+  color: white;
+  height: 25px !important;
+}
+
+.features {
+  list-style-type: none;
+  padding: 0;
+}
+
+.feature li {
+  margin-top: 100px !important;
+}
+
+.feature-item-icon-box {
+  background: linear-gradient(green, rgb(78, 78, 78));
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
+.icon {
+  font-size: 20px;
+  color: white;
+  padding: 18px;
+}
+
+/* needs-section start */
+
+.needs-section {
+  height: 100vh;
+}
+
+.card {
+    background-color: rgb(253, 247, 240);
+}
